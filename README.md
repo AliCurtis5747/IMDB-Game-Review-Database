@@ -165,6 +165,3 @@ DIRECTOR: Jane Doe
 - **Fixed waits**: pages are given a flat 3 seconds to load; slow connections may need a longer `time.sleep()`.
 - **Terms of use**: automated scraping may conflict with IMDb's terms of service. Use responsibly and at a low request rate.
 
-## License
-
-Add your license here.
