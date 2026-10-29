@@ -16,7 +16,7 @@ import math
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'ExcaliBR8!',
+    'password': '****************',
     'database': 'imdb_reviews'
 }
 
